@@ -1,8 +1,6 @@
 """
 Roda UMA VEZ a partir da pasta raiz do projeto (MapaRiscoEscolas).
 Gera os arquivos de dados na pasta streamlit_risco_escolas/data/.
-
-Prepara os dados mas pode ser uma parte não necessaria para rodar o projeto caso ja tenha todos os dados
 """
 import os, sys, warnings
 warnings.filterwarnings("ignore")
