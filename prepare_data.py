@@ -1,7 +1,4 @@
-"""
-Roda UMA VEZ a partir da pasta raiz do projeto (MapaRiscoEscolas).
-Gera os arquivos de dados na pasta streamlit_risco_escolas/data/.
-"""
+
 import os, sys, warnings
 warnings.filterwarnings("ignore")
 sys.stdout.reconfigure(encoding="utf-8")
